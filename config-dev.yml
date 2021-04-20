@@ -1,4 +1,2 @@
-server:
-  port: 3399
 config:
   info: "version=2"
